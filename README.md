@@ -1,3 +1,1 @@
-# SYS-265-Final
-The final project for SYS-265-02 w/ Kel, Josh, and Mark
-
+<h2>Click <a href="https://github.com/tkdkel/SYS-265-Final/wiki">here</a> to see our Wiki for the project!</h2>
